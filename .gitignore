@@ -6,3 +6,4 @@ docs/build
 *.py[co]
 *.swp
 venv/
+authy.egg-info
